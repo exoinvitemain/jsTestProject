@@ -1,5 +1,4 @@
 jsTestProject
 =============
-***************
 jsTestProject
 mamxmxxmmxmajfsiodhsigfg
